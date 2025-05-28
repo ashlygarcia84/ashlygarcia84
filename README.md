@@ -10,10 +10,5 @@ Soy un desarrollador Web y creador de contenidos digitales.
 🔹 Programación en python con raspberry pi pico W
 🔹 Me interesa el desarrollo de aplicaciones web.
 🔹 https://ashlygarcia.space/
-<samp>
-      #html, #css, #javascript, #git, #react, #python, #Java SE, #SQL, #Bash, #linux
-     </samp>
-    <br>
-  </p>
-  
-</p>
+      #html, #css,  #git,   #SQL, #Bash, #linux
+     
